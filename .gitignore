@@ -1,0 +1,8 @@
+# Configuración de editores
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Paquetes o librerías
+node_modules/
+.env
